@@ -1,4 +1,4 @@
-# Hi!!
+# Hi there
 这是我的个人主页，我会在这里更新我学习的内容
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuchen-Zhou&show_icons=true&theme=tokyonight)
