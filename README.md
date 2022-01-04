@@ -7,6 +7,6 @@
 - [浙大版C语言程序设计题目集](https://github.com/Yuchen-Zhou/PTA_ZJU_C)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuchen-Zhou&show_icons=true&theme=tokyonight)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuchen-Zhou&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
