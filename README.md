@@ -6,7 +6,7 @@
 ## Menu
 - [Python学习笔记](https://github.com/Yuchen-Zhou/PythonLearning)
 - [大数据平台-Spark编程](https://github.com/Yuchen-Zhou/SparkWithBigdata)
-- [LeetCode刷题笔记](https://github.com/Yuchen-Zhou/LeetCode)
+- [C语言学习笔记](https://github.com/Yuchen-Zhou/C_Stduying)
 
 
 
