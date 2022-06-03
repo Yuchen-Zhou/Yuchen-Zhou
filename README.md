@@ -5,6 +5,7 @@
 - [Python学习笔记](https://github.com/Yuchen-Zhou/PythonLearning)
 - [大数据平台-Spark编程](https://github.com/Yuchen-Zhou/SparkWithBigdata)
 - [神经网络与深度学习](https://github.com/Yuchen-Zhou/NN_and_DL)
+- [动手学深度学习](https://github.com/Yuchen-Zhou/D2L)
 
 
 
