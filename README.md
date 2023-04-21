@@ -5,7 +5,7 @@
 - [Python学习笔记](https://github.com/Yuchen-Zhou/PythonLearning)
 - [大数据平台-Spark编程](https://github.com/Yuchen-Zhou/SparkWithBigdata)
 - [动手学深度学习](https://github.com/Yuchen-Zhou/D2L)
-
+- [计算机考研408](https://github.com/Yuchen-Zhou/Leraning408)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuchen-Zhou&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
