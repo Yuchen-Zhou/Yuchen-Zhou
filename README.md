@@ -2,11 +2,9 @@
 这是我的个人主页，我会在这里更新我学习的内容
 
 ## Menu
-- [毕设Django](https://github.com/Yuchen-Zhou/Station)
-- [毕设Flask](https://github.com/Yuchen-Zhou/Flask_YOLOv8)
+- [YuchenAI](https://github.com/Yuchen-Zhou/YuchenAI)
 - [Python学习笔记](https://github.com/Yuchen-Zhou/PythonLearning)
 - [大数据平台-Spark编程](https://github.com/Yuchen-Zhou/SparkWithBigdata)
-- [动手学深度学习](https://github.com/Yuchen-Zhou/D2L)
 
 
 
